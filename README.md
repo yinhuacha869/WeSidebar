@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="WeSidebar/imgs/db256.png" width="96" alt="WeSidebar" />
-
 # WeSidebar
 
 **PC 微信侧边栏助手 —— 让个人微信也能拥有专业的客户运营能力**
